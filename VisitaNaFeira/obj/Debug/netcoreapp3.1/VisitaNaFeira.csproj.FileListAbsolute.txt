@@ -1,0 +1,13 @@
+C:\workspace\DesafiosMRV\VisitaNaFeira\bin\Debug\netcoreapp3.1\VisitaNaFeira.exe
+C:\workspace\DesafiosMRV\VisitaNaFeira\bin\Debug\netcoreapp3.1\VisitaNaFeira.deps.json
+C:\workspace\DesafiosMRV\VisitaNaFeira\bin\Debug\netcoreapp3.1\VisitaNaFeira.runtimeconfig.json
+C:\workspace\DesafiosMRV\VisitaNaFeira\bin\Debug\netcoreapp3.1\VisitaNaFeira.runtimeconfig.dev.json
+C:\workspace\DesafiosMRV\VisitaNaFeira\bin\Debug\netcoreapp3.1\VisitaNaFeira.dll
+C:\workspace\DesafiosMRV\VisitaNaFeira\bin\Debug\netcoreapp3.1\VisitaNaFeira.pdb
+C:\workspace\DesafiosMRV\VisitaNaFeira\obj\Debug\netcoreapp3.1\VisitaNaFeira.csprojAssemblyReference.cache
+C:\workspace\DesafiosMRV\VisitaNaFeira\obj\Debug\netcoreapp3.1\VisitaNaFeira.AssemblyInfoInputs.cache
+C:\workspace\DesafiosMRV\VisitaNaFeira\obj\Debug\netcoreapp3.1\VisitaNaFeira.AssemblyInfo.cs
+C:\workspace\DesafiosMRV\VisitaNaFeira\obj\Debug\netcoreapp3.1\VisitaNaFeira.csproj.CoreCompileInputs.cache
+C:\workspace\DesafiosMRV\VisitaNaFeira\obj\Debug\netcoreapp3.1\VisitaNaFeira.dll
+C:\workspace\DesafiosMRV\VisitaNaFeira\obj\Debug\netcoreapp3.1\VisitaNaFeira.pdb
+C:\workspace\DesafiosMRV\VisitaNaFeira\obj\Debug\netcoreapp3.1\VisitaNaFeira.genruntimeconfig.cache
