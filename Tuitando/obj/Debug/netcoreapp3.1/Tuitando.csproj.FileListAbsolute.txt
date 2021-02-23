@@ -1,0 +1,13 @@
+C:\workspace\DesafiosMRV\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.exe
+C:\workspace\DesafiosMRV\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.deps.json
+C:\workspace\DesafiosMRV\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.runtimeconfig.json
+C:\workspace\DesafiosMRV\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.runtimeconfig.dev.json
+C:\workspace\DesafiosMRV\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.dll
+C:\workspace\DesafiosMRV\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.pdb
+C:\workspace\DesafiosMRV\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.csprojAssemblyReference.cache
+C:\workspace\DesafiosMRV\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.AssemblyInfoInputs.cache
+C:\workspace\DesafiosMRV\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.AssemblyInfo.cs
+C:\workspace\DesafiosMRV\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.csproj.CoreCompileInputs.cache
+C:\workspace\DesafiosMRV\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.dll
+C:\workspace\DesafiosMRV\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.pdb
+C:\workspace\DesafiosMRV\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.genruntimeconfig.cache
