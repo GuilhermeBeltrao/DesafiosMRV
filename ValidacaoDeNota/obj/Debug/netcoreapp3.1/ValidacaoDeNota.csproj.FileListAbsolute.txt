@@ -1,0 +1,13 @@
+C:\workspace\DesafiosMRV\ValidacaoDeNota\bin\Debug\netcoreapp3.1\ValidacaoDeNota.exe
+C:\workspace\DesafiosMRV\ValidacaoDeNota\bin\Debug\netcoreapp3.1\ValidacaoDeNota.deps.json
+C:\workspace\DesafiosMRV\ValidacaoDeNota\bin\Debug\netcoreapp3.1\ValidacaoDeNota.runtimeconfig.json
+C:\workspace\DesafiosMRV\ValidacaoDeNota\bin\Debug\netcoreapp3.1\ValidacaoDeNota.runtimeconfig.dev.json
+C:\workspace\DesafiosMRV\ValidacaoDeNota\bin\Debug\netcoreapp3.1\ValidacaoDeNota.dll
+C:\workspace\DesafiosMRV\ValidacaoDeNota\bin\Debug\netcoreapp3.1\ValidacaoDeNota.pdb
+C:\workspace\DesafiosMRV\ValidacaoDeNota\obj\Debug\netcoreapp3.1\ValidacaoDeNota.csprojAssemblyReference.cache
+C:\workspace\DesafiosMRV\ValidacaoDeNota\obj\Debug\netcoreapp3.1\ValidacaoDeNota.AssemblyInfoInputs.cache
+C:\workspace\DesafiosMRV\ValidacaoDeNota\obj\Debug\netcoreapp3.1\ValidacaoDeNota.AssemblyInfo.cs
+C:\workspace\DesafiosMRV\ValidacaoDeNota\obj\Debug\netcoreapp3.1\ValidacaoDeNota.csproj.CoreCompileInputs.cache
+C:\workspace\DesafiosMRV\ValidacaoDeNota\obj\Debug\netcoreapp3.1\ValidacaoDeNota.dll
+C:\workspace\DesafiosMRV\ValidacaoDeNota\obj\Debug\netcoreapp3.1\ValidacaoDeNota.pdb
+C:\workspace\DesafiosMRV\ValidacaoDeNota\obj\Debug\netcoreapp3.1\ValidacaoDeNota.genruntimeconfig.cache

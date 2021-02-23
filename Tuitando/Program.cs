@@ -4,7 +4,7 @@ namespace Tuitando
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             string v = Console.ReadLine();
             char[] arr = v.ToCharArray();
